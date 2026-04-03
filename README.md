@@ -7,7 +7,6 @@
   <a href="www.linkedin.com/in/syed-meesum-abbas-70534822a/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="react" width="40" height="40"/></a>
 </p>
 
-<p align="center"> - 👨‍💻 All of my projects are available at my <a href="https://syed-meesum-abbas.netlify.app/"> Portfolio </a> </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
